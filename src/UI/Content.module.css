@@ -21,6 +21,7 @@
     border-radius: .5rem;
     background-color: #fff;
     display: grid;
-    grid-template-rows: repeat(12,1fr);
+    grid-template-rows: repeat(12, 1fr);
     /* grid-template-columns: repeat(4, 1fr); */
+    overflow-y: auto;
 }
